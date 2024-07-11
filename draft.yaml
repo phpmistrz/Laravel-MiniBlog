@@ -1,0 +1,8 @@
+models:
+  Post:
+    title: string
+    slug: string
+    thumbnail: text
+    content: text
+    published_at: datetime nullable
+    featured: boolean nullable 
